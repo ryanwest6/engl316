@@ -1,8 +1,6 @@
 # How to Install Sovrin's Indy-SDK for MacOS
 
-<style type="text/css">
-    ol { list-style-type: upper-alpha; }
-</style>
+
 
 Sovrin is a non-profit organization building a transformational internet identity network that is freely available to everyone. Rather than hosting sensitive data in one location, Sovrin uses blockchain technology to keep all identity at the control of its owners, not corporations or governments. This will allow individuals much greater freedom in how they choose to share their identities.
 
@@ -130,7 +128,7 @@ Github is a website that software developers use to host their computer programs
 2. Press `Enter`.
 
 ![](git-installed.png)
-*Figure 7 — Git, installed*
+*Figure 6 — Git, installed*
 
 &nbsp;
 
@@ -159,6 +157,8 @@ Copy the following three commands into the terminal and hit `Enter`. Note that y
 The warning in the screenshot may be disregarded.
 
 ![](cargo-finished.png)
-*Figure 8 — Indy successfully installed*
+*Figure 7 — Indy successfully installed*
+
+&nbsp;
 
 The Indy libraries are now installed!
