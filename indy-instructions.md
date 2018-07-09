@@ -21,7 +21,7 @@ For Windows and Linux users, follow the instructions in this link to install Ind
 
 &nbsp;
 
-#Instructions
+# Instructions
 
 ## 1. Open the Terminal
 
